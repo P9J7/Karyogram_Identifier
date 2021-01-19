@@ -1,2 +1,3 @@
 # Karyogram_Identifier
-Repo for IJCNN2021
+This is the official pytorch implementation of our paper: "An Effective Error Chromosome Karyogram Identification Framework based on Deep Learning"
+
